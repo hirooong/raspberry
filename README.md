@@ -74,3 +74,10 @@ def thermometer():
 
 if __name__ == "__main__": 
         thermometer() 
+        
+        
+        
+        
+       
+################### mission 4,5
+mysql -uej -hlocalhost data -p
